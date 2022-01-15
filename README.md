@@ -1,8 +1,8 @@
 # BacaIN
-App to read text
+Android app to read text
 
 ## YouTube Video
 www.
 
 ## Download APK
-www.
+https://github.com/ngedev/BacaIN/raw/main/app/build/outputs/apk/debug/BacaIN.apk
